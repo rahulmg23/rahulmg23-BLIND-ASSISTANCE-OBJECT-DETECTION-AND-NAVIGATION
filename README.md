@@ -14,18 +14,3 @@ This is a vision enhancer based module specifically for the BLIND VICTIMS. The s
 * Follow my Youtube Tutorial
 * Run [MainFile](https://github.com/beingaryan/VISION-I/blob/master/webcam_blind_voice.py)
 
-## TODO
-* Make it dynamic over Cloud systems.
-* Provide features to input class of Object.
-
-
-## Tutorials
-* [Medium](https://medium.com/beingryaan/real-time-object-detection-along-with-distance-and-voice-alerts-for-blinds-a-blind-assistance-1708b97c3ecc)
-* [Youtube](https://www.youtube.com/watch?v=3BXIuU2AcGg&feature=emb_title)
-
-
-## :clap: And it's done!
-Feel free to mail me for any doubts/query 
-* :email: aryan.gupta18@vit.edu
-* ⭐: Instagram: @beingryaan
-* 💙: LinkedIn: https://www.linkedin.com/in/aryan-gupta-6a9201191/
